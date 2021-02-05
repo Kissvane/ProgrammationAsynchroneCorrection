@@ -1,0 +1,7 @@
+C:\Users\Adrien\source\repos\ProgrammationAsynchrone2\ProgrammationAsynchrone2\obj\Debug\ProgrammationAsynchrone2.csprojAssemblyReference.cache
+C:\Users\Adrien\source\repos\ProgrammationAsynchrone2\ProgrammationAsynchrone2\obj\Debug\ProgrammationAsynchrone2.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\source\repos\ProgrammationAsynchrone2\ProgrammationAsynchrone2\bin\Debug\ProgrammationAsynchrone2.exe.config
+C:\Users\Adrien\source\repos\ProgrammationAsynchrone2\ProgrammationAsynchrone2\bin\Debug\ProgrammationAsynchrone2.exe
+C:\Users\Adrien\source\repos\ProgrammationAsynchrone2\ProgrammationAsynchrone2\bin\Debug\ProgrammationAsynchrone2.pdb
+C:\Users\Adrien\source\repos\ProgrammationAsynchrone2\ProgrammationAsynchrone2\obj\Debug\ProgrammationAsynchrone2.exe
+C:\Users\Adrien\source\repos\ProgrammationAsynchrone2\ProgrammationAsynchrone2\obj\Debug\ProgrammationAsynchrone2.pdb
